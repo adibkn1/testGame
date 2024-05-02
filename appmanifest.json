@@ -1,10 +1,10 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Collect",
+	"short_name": "Collect",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
 		{
